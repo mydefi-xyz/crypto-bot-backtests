@@ -1,0 +1,48 @@
+Zeitraum,Strategie,t,coin,leg,p0
+Vorjahr,Farming: Short hyperliquid + Spot (20 Majors),2024-12-02 21:00:00,LINK,short,17.4
+Vorjahr,Farming: Short hyperliquid + Spot (20 Majors),2024-12-03 19:00:00,TRX,short,0.20032
+Vorjahr,Farming: Short hyperliquid + Spot (20 Majors),2025-03-02 16:00:00,ADA,short,0.7435
+Vorjahr,Farming: Short binance + Spot (20 Majors),2024-12-02 21:00:00,LINK,short,17.4
+Vorjahr,Farming: Short binance + Spot (20 Majors),2024-12-03 19:00:00,TRX,short,0.20032
+Vorjahr,Farming: Short binance + Spot (20 Majors),2025-03-02 16:00:00,ADA,short,0.7435
+Vorjahr,Farming: Short HL + Long Binance (20 Majors),2024-12-02 21:00:00,LINK,short,17.4
+Vorjahr,Farming: Short HL + Long Binance (20 Majors),2024-12-03 19:00:00,TRX,short,0.20032
+Vorjahr,Farming: Short HL + Long Binance (20 Majors),2025-02-03 02:00:00,ADA,long,1.0178
+Vorjahr,Farming: Short HL + Long Binance (20 Majors),2025-10-10 21:00:00,XRP,long,3.4841
+Vorjahr,Farming: Short HL + Long Binance (20 Majors),2025-10-10 21:00:00,DOGE,long,0.25592
+Vorjahr,Farming: Short HL + Long Binance (20 Majors),2025-10-10 21:00:00,ADA,long,0.9039
+Vorjahr,Farming: Short HL + Long Binance (20 Majors),2025-10-10 21:00:00,LINK,long,21.939
+Vorjahr,Farming: Short HL + Long Binance (20 Majors),2025-10-10 21:00:00,AVAX,long,30.069
+Vorjahr,Farming: Short HL + Long Binance (20 Majors),2025-10-10 21:00:00,SUI,long,3.8886
+Vorjahr,Farming: Short HL + Long Binance (20 Majors),2025-10-10 21:00:00,LTC,long,113.19
+Vorjahr,Farming: Short HL + Long Binance (20 Majors),2025-10-10 21:00:00,DOT,long,3.811
+Vorjahr,Farming: Short HL + Long Binance (20 Majors),2025-10-10 21:00:00,TON,long,2.6603
+Vorjahr,Farming: Short HL + Long Binance (20 Majors),2025-10-10 21:00:00,NEAR,long,3.174
+Vorjahr,Farming: Short HL + Long Binance (20 Majors),2025-10-10 21:00:00,UNI,long,7.452
+Vorjahr,Farming: Short HL + Long Binance (20 Majors),2025-10-10 21:00:00,AAVE,long,345.81
+Letzte 12 Monate,Farming: Short hyperliquid + Spot (20 Majors),2025-11-07 17:00:00,NEAR,short,1.951
+Letzte 12 Monate,Farming: Short hyperliquid + Spot (20 Majors),2025-11-10 21:00:00,UNI,short,5.344
+Letzte 12 Monate,Farming: Short hyperliquid + Spot (20 Majors),2026-05-05 21:00:00,TON,short,1.3505
+Letzte 12 Monate,Farming: Short hyperliquid + Spot (20 Majors),2026-05-10 17:00:00,SUI,short,0.8821
+Letzte 12 Monate,Farming: Short binance + Spot (20 Majors),2025-11-07 17:00:00,NEAR,short,1.951
+Letzte 12 Monate,Farming: Short binance + Spot (20 Majors),2025-11-10 21:00:00,UNI,short,5.344
+Letzte 12 Monate,Farming: Short binance + Spot (20 Majors),2026-05-05 20:00:00,TON,short,1.3505
+Letzte 12 Monate,Farming: Short binance + Spot (20 Majors),2026-05-10 17:00:00,SUI,short,0.8821
+Letzte 12 Monate,Farming: Short binance + Spot (20 Majors),2026-05-28 18:00:00,XLM,short,0.14688
+Letzte 12 Monate,Farming: Short HL + Long Binance (20 Majors),2025-11-07 17:00:00,NEAR,short,1.951
+Letzte 12 Monate,Farming: Short HL + Long Binance (20 Majors),2025-11-10 21:00:00,UNI,short,5.344
+Letzte 12 Monate,Farming: Short HL + Long Binance (20 Majors),2026-05-05 21:00:00,TON,short,1.3505
+Letzte 12 Monate,Farming: Short HL + Long Binance (20 Majors),2026-05-10 17:00:00,SUI,short,0.8821
+Vorjahr,Arbitrage HL<->Binance (Majors),2024-11-27 22:00:00,UNI,short,9.117
+Vorjahr,Arbitrage HL<->Binance (Majors),2025-10-10 21:00:00,AVAX,long,35.193
+Vorjahr,Arbitrage HL<->Binance (Majors),2025-10-10 21:00:00,UNI,long,9.736
+Vorjahr,Arbitrage HL<->Binance (Majors),2025-10-10 21:00:00,TON,long,2.8154
+Vorjahr,Arbitrage HL<->Binance (Majors),2025-10-10 21:00:00,DOGE,long,0.26601
+Vorjahr,Arbitrage HL<->Binance (Majors+Alts),2024-11-13 18:00:00,1000PEPE,short,0.0141382
+Vorjahr,Arbitrage HL<->Binance (Majors+Alts),2025-05-09 08:00:00,1000PEPE,short,0.00896
+Vorjahr,Arbitrage HL<->Binance (Majors+Alts),2025-10-10 21:00:00,AVAX,long,35.193
+Vorjahr,Arbitrage HL<->Binance (Majors+Alts),2025-10-10 21:00:00,UNI,long,9.736
+Vorjahr,Arbitrage HL<->Binance (Majors+Alts),2025-10-10 21:00:00,ENA,long,0.5887
+Vorjahr,Arbitrage HL<->Binance (Majors+Alts),2025-10-10 21:00:00,TON,long,2.8154
+Letzte 12 Monate,Arbitrage HL<->Binance (Majors),2026-05-06 13:00:00,TON,short,1.6516
+Letzte 12 Monate,Arbitrage HL<->Binance (Majors+Alts),2026-05-06 13:00:00,TON,short,1.6516

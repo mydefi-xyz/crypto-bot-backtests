@@ -1,0 +1,25 @@
+Zeitraum,Variante,Verzoegerung Tage,Netto %,Max DD %
+Vorjahr,Standard,0,138.399,-31.077
+Vorjahr,Standard,1,153.031,-29.193
+Vorjahr,Standard,2,150.384,-27.703
+Vorjahr,Hebel 1x,0,59.442,-16.425
+Vorjahr,Hebel 1x,1,63.964,-15.335
+Vorjahr,Hebel 1x,2,62.487,-14.672
+Letzte 12 Monate,Standard,0,-22.83,-40.216
+Letzte 12 Monate,Standard,1,-48.026,-54.68
+Letzte 12 Monate,Standard,2,-57.061,-62.232
+Letzte 12 Monate,Hebel 1x,0,-10.581,-22.152
+Letzte 12 Monate,Hebel 1x,1,-26.431,-31.491
+Letzte 12 Monate,Hebel 1x,2,-33.04,-37.375
+Zeitraum Jan25-Okt26,Standard,0,6.45,-40.216
+Zeitraum Jan25-Okt26,Standard,1,-21.858,-54.99
+Zeitraum Jan25-Okt26,Standard,2,-29.302,-62.232
+Zeitraum Jan25-Okt26,Hebel 1x,0,6.897,-22.152
+Zeitraum Jan25-Okt26,Hebel 1x,1,-8.144,-31.553
+Zeitraum Jan25-Okt26,Hebel 1x,2,-12.714,-37.375
+Gesamt 24 Monate,Standard,0,81.002,-40.216
+Gesamt 24 Monate,Standard,1,29.119,-54.99
+Gesamt 24 Monate,Standard,2,12.386,-62.232
+Gesamt 24 Monate,Hebel 1x,0,41.404,-22.152
+Gesamt 24 Monate,Hebel 1x,1,19.576,-31.553
+Gesamt 24 Monate,Hebel 1x,2,11.265,-37.375

@@ -1,0 +1,121 @@
+period,exchange,coin,apr,neg_weeks
+Vorjahr,binance,BTC,6.72,5.21
+Vorjahr,binance,ETH,6.8,2.1
+Vorjahr,binance,SOL,2.38,33.52
+Vorjahr,binance,XRP,5.98,16.44
+Vorjahr,binance,BNB,-0.3,48.58
+Vorjahr,binance,DOGE,6.63,4.2
+Vorjahr,binance,ADA,6.18,16.62
+Vorjahr,binance,LINK,7.39,4.84
+Vorjahr,binance,AVAX,3.6,30.23
+Vorjahr,binance,SUI,4.46,24.02
+Vorjahr,binance,LTC,7.86,2.56
+Vorjahr,binance,BCH,0.82,41.83
+Vorjahr,binance,TRX,1.26,33.89
+Vorjahr,binance,DOT,4.76,17.08
+Vorjahr,binance,TON,7.1,14.52
+Vorjahr,binance,XLM,0.09,50.41
+Vorjahr,binance,HBAR,4.44,18.36
+Vorjahr,binance,NEAR,3.91,29.5
+Vorjahr,binance,UNI,8.13,1.19
+Vorjahr,binance,AAVE,7.49,2.56
+Vorjahr,binance,ENA,-14.96,51.2
+Vorjahr,binance,WIF,4.97,29.59
+Vorjahr,binance,1000PEPE,6.76,10.87
+Vorjahr,hyperliquid,BTC,14.38,1.61
+Vorjahr,hyperliquid,ETH,12.74,9.89
+Vorjahr,hyperliquid,SOL,10.85,16.86
+Vorjahr,hyperliquid,XRP,12.55,14.95
+Vorjahr,hyperliquid,BNB,6.81,36.91
+Vorjahr,hyperliquid,DOGE,15.07,11.72
+Vorjahr,hyperliquid,ADA,6.91,20.58
+Vorjahr,hyperliquid,LINK,16.69,0.23
+Vorjahr,hyperliquid,AVAX,11.43,19.46
+Vorjahr,hyperliquid,SUI,11.14,20.33
+Vorjahr,hyperliquid,LTC,17.83,0.0
+Vorjahr,hyperliquid,BCH,7.57,23.68
+Vorjahr,hyperliquid,TRX,8.57,22.02
+Vorjahr,hyperliquid,DOT,8.67,19.79
+Vorjahr,hyperliquid,TON,12.99,14.78
+Vorjahr,hyperliquid,XLM,0.09,37.25
+Vorjahr,hyperliquid,HBAR,16.58,6.96
+Vorjahr,hyperliquid,NEAR,15.03,5.81
+Vorjahr,hyperliquid,UNI,16.31,8.45
+Vorjahr,hyperliquid,AAVE,19.04,0.0
+Vorjahr,hyperliquid,HYPE,31.39,1.27
+Vorjahr,hyperliquid,ENA,-3.82,43.24
+Vorjahr,hyperliquid,WIF,16.76,7.66
+Vorjahr,hyperliquid,1000PEPE,19.39,8.09
+Letzte 12 Monate,binance,BTC,3.51,20.46
+Letzte 12 Monate,binance,ETH,2.5,24.93
+Letzte 12 Monate,binance,SOL,-0.11,42.11
+Letzte 12 Monate,binance,XRP,0.26,41.19
+Letzte 12 Monate,binance,BNB,2.64,6.95
+Letzte 12 Monate,binance,DOGE,3.16,16.16
+Letzte 12 Monate,binance,ADA,1.98,29.95
+Letzte 12 Monate,binance,LINK,4.69,1.19
+Letzte 12 Monate,binance,AVAX,0.03,37.18
+Letzte 12 Monate,binance,SUI,3.2,13.79
+Letzte 12 Monate,binance,LTC,3.29,11.32
+Letzte 12 Monate,binance,BCH,-3.5,58.0
+Letzte 12 Monate,binance,TRX,-8.63,65.76
+Letzte 12 Monate,binance,DOT,-4.58,53.07
+Letzte 12 Monate,binance,XLM,-0.27,51.14
+Letzte 12 Monate,binance,HBAR,1.5,34.52
+Letzte 12 Monate,binance,NEAR,3.79,7.41
+Letzte 12 Monate,binance,UNI,4.55,5.84
+Letzte 12 Monate,binance,AAVE,2.75,15.62
+Letzte 12 Monate,binance,HYPE,5.43,11.42
+Letzte 12 Monate,binance,ENA,1.23,28.41
+Letzte 12 Monate,binance,WIF,-2.58,37.67
+Letzte 12 Monate,binance,1000PEPE,-0.8,42.92
+Letzte 12 Monate,binance,FARTCOIN,10.78,2.37
+Letzte 12 Monate,hyperliquid,BTC,5.79,11.8
+Letzte 12 Monate,hyperliquid,ETH,6.41,8.13
+Letzte 12 Monate,hyperliquid,SOL,0.96,35.56
+Letzte 12 Monate,hyperliquid,XRP,3.5,31.03
+Letzte 12 Monate,hyperliquid,BNB,6.09,10.63
+Letzte 12 Monate,hyperliquid,DOGE,6.35,13.22
+Letzte 12 Monate,hyperliquid,ADA,-1.97,59.85
+Letzte 12 Monate,hyperliquid,LINK,9.64,0.0
+Letzte 12 Monate,hyperliquid,AVAX,3.87,23.64
+Letzte 12 Monate,hyperliquid,SUI,5.57,18.45
+Letzte 12 Monate,hyperliquid,LTC,6.84,12.15
+Letzte 12 Monate,hyperliquid,BCH,1.78,31.95
+Letzte 12 Monate,hyperliquid,TRX,-5.53,46.56
+Letzte 12 Monate,hyperliquid,DOT,-5.25,53.84
+Letzte 12 Monate,hyperliquid,TON,2.62,14.91
+Letzte 12 Monate,hyperliquid,XLM,2.11,38.68
+Letzte 12 Monate,hyperliquid,HBAR,7.11,11.95
+Letzte 12 Monate,hyperliquid,NEAR,10.91,0.02
+Letzte 12 Monate,hyperliquid,UNI,9.51,6.3
+Letzte 12 Monate,hyperliquid,AAVE,8.9,0.37
+Letzte 12 Monate,hyperliquid,HYPE,9.87,1.54
+Letzte 12 Monate,hyperliquid,ENA,5.37,20.03
+Letzte 12 Monate,hyperliquid,WIF,4.09,12.69
+Letzte 12 Monate,hyperliquid,1000PEPE,5.93,16.27
+Letzte 12 Monate,hyperliquid,FARTCOIN,14.65,0.0
+Letzte 12 Monate,lighter,BTC,4.92,18.9
+Letzte 12 Monate,lighter,ETH,5.24,12.99
+Letzte 12 Monate,lighter,SOL,0.24,39.82
+Letzte 12 Monate,lighter,XRP,2.87,34.7
+Letzte 12 Monate,lighter,BNB,6.9,7.16
+Letzte 12 Monate,lighter,DOGE,7.97,6.83
+Letzte 12 Monate,lighter,ADA,2.01,30.74
+Letzte 12 Monate,lighter,LINK,5.85,17.96
+Letzte 12 Monate,lighter,AVAX,0.77,42.96
+Letzte 12 Monate,lighter,SUI,5.62,16.48
+Letzte 12 Monate,lighter,LTC,5.33,23.76
+Letzte 12 Monate,lighter,BCH,3.85,29.32
+Letzte 12 Monate,lighter,TRX,-2.92,47.64
+Letzte 12 Monate,lighter,DOT,0.25,27.91
+Letzte 12 Monate,lighter,XLM,3.64,28.89
+Letzte 12 Monate,lighter,HBAR,1.43,35.08
+Letzte 12 Monate,lighter,NEAR,10.66,6.96
+Letzte 12 Monate,lighter,UNI,8.96,10.63
+Letzte 12 Monate,lighter,AAVE,9.81,3.69
+Letzte 12 Monate,lighter,HYPE,7.83,5.41
+Letzte 12 Monate,lighter,ENA,5.92,15.76
+Letzte 12 Monate,lighter,WIF,4.39,12.6
+Letzte 12 Monate,lighter,1000PEPE,10.26,2.97
+Letzte 12 Monate,lighter,FARTCOIN,15.1,0.0

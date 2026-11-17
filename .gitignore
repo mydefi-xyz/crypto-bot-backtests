@@ -1,0 +1,15 @@
+﻿# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Data cache (downloaded automatically by the scripts, ~150 MB)
+data/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
